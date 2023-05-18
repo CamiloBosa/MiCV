@@ -1,0 +1,61 @@
+
+body{
+    padding: 0px;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+body h1{
+    color:black;
+    text-align: left;
+    padding: 0px;
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+.imageprofile{
+    margin-top: 15px;
+    width: 130px;
+    height: 130px;
+    float: right;
+    margin-right: 100px; 
+    border-radius: 50%;  
+}
+
+header p{    
+    margin-top: 0;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+p{
+    font-size: 20px;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding-left: 10px;
+    
+}
+.alinear{
+    display: inline-block;
+}
+
+.listauno{
+    font-size: 20px;
+    list-style: none;
+    text-align: left;
+    padding: 2px;
+}
+
+h3{
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.skills{
+    font-size: 20px;
+}
+
+
